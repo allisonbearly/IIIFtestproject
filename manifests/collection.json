@@ -1,0 +1,13 @@
+{
+  "id" : "https://allisonbearly.github.io/IIIFtestproject/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in allisonbearly/IIIFtestproject project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://allisonbearly.github.io/IIIFtestproject/manifests/manifest2.json",
+    "label" : "IIIF test manifest"
+  } ]
+}
