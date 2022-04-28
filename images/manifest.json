@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 5669,
+    "id" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3711/canvas/",
+    "label" : {
+      "none" : [ "_E0A3711" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3711/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3711/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 178,
+              "height" : 222
+            }, {
+              "width" : 355,
+              "height" : 443
+            }, {
+              "width" : 709,
+              "height" : 886
+            }, {
+              "width" : 1418,
+              "height" : 1772
+            }, {
+              "width" : 2835,
+              "height" : 3543
+            }, {
+              "width" : 5669,
+              "height" : 7086
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 5669,
+            "@id" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3711",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 7086
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5669,
+          "id" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3711/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 7086
+        },
+        "target" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3711/canvas/"
+      } ]
+    } ],
+    "height" : 7086
+  }, {
     "width" : 5792,
     "id" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3651/canvas/",
     "label" : {
