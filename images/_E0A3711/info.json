@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 178,
+    "height" : 222
+  }, {
+    "width" : 355,
+    "height" : 443
+  }, {
+    "width" : 709,
+    "height" : 886
+  }, {
+    "width" : 1418,
+    "height" : 1772
+  }, {
+    "width" : 2835,
+    "height" : 3543
+  }, {
+    "width" : 5669,
+    "height" : 7086
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5669,
+  "@id" : "https://allisonbearly.github.io/IIIFtestproject/images/_E0A3711",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7086
+}
